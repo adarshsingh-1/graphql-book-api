@@ -106,4 +106,3 @@ mutation {
 - `server.js` - Main server and GraphQL schema
 - `package.json` - Project metadata and scripts
 
-## License
